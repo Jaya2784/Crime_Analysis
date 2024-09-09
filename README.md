@@ -1,4 +1,4 @@
-# Crime_Prediction
+# Crime_Analysis
 
 This project leverages machine learning algorithms such as Random Forest for crime prediction and K-Means for resource allocation, the system analyses historical data. Preprocessing techniques and feature engineering ensure data quality, while interactive visualizations (Matplotlib and Seaborn) aid in understanding trends. The outcome is an efficient, scalable system providing law enforcement with actionable insights for evidence-based decision making. 
  
